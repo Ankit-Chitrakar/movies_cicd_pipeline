@@ -3,8 +3,7 @@
   "private": true,
   "scripts": {
     "start": "node server.js",
-    "test": "jest",
-    "build": "echo 'No build step needed.'"
+    "test": "jest"
   },
   "dependencies": {
     "cors": "^2.8.5",
@@ -14,4 +13,3 @@
     "vercel": "^39.1.0"
   }
 }
-
